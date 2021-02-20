@@ -1,6 +1,7 @@
 package com.example.coffeemachine;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 import com.example.coffemachine.CoffeeMachine;
 import com.example.coffemachine.factory.CoffeeMachineFactory;
